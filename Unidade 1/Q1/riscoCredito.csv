@@ -3,12 +3,10 @@ sim;solteiro;sim;Alto;sim
 não;casado;sim;médio;não
 não;solteiro;não;Baixo;não
 sim;casado;sim;Alto;não
-não;Divorciado;não;médio;sim
+não;divorciado;não;médio;sim
 não;casado;não;Baixo;não
 sim;divorciado;sim;Alto;sim
-não;solteiro;sim;médio;sim
+não;solteiro;sim;médio;sims
 não;casado;sim;Baixo;não
 não;solteiro;não;médio;sim
 sim;divorciado;não;médio;não
-não;divorciado;sim;Alto;?
-sim;solteiro;não;médio;?
