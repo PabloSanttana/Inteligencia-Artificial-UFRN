@@ -25,7 +25,7 @@
   
   ![image2](https://static.javatpoint.com/tutorial/machine-learning/images/random-forest-algorithm2.png)
 
-### Característica Importatntes 
+### Característica Importantes 
 
   * Bom indicador para seleção das melhores características
   * Esta nota ajudará a escolher as características mais importantes e remover as menos importantes na hora de construir o modelo.
