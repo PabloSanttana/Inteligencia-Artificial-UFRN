@@ -6,7 +6,7 @@
  * Random Forest é um algoritmo de aprendizado de máquina supervisionado.
  * Usado para problemas de regressão e classificação.
  * Random Forest cria árvores de decisão ao selecionar de forma aleatória amostra de dados, obter as predições para casa árvore e selecionar a solução mais votada.
- * as árvore de decisão individuais são geradas usando um indicador de seleção de atributos tais como ganho de informação, taxa de ganhor e índice Gini para casa atributo.
+ * as árvore de decisão individuais são geradas usando um indicador de seleção de atributos tais como ganho de informação, taxa de ganhor e índice Gini para cada atributo.
  * Cada árvore depende de uma amostra aleatória independente.
  * Usando classificação, cada árvore vota em uma classe a mais popular ganha.
  * Usando o caso de regressão é usado a média.
