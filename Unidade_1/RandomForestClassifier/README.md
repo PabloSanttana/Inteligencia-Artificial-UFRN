@@ -15,7 +15,7 @@
 
   Random Forest tem 4 etapas:
  
-    1. Seleciona aleatoriamente amostras de um determinado dado.
+    1. Seleciona aleatoriamente amostra de um determinado dado.
     2. Constrói uma árvore de decisão para casa amostra e obtém a predição de casa árvore.
     3. Realiza a votação para cada resultado predito.
     4. Seleciona o resultado mais votado.
